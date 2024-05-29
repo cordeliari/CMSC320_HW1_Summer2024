@@ -1,0 +1,1 @@
+In this class, I hope to create a solid foundation in data science principles as well as statistical and computational methods. I hope to gain more familiarity with Python and SQL. I also think the group project aspect of the class is important and unlike any CS class I have taken so far at UMD, and an important skill for the future.
